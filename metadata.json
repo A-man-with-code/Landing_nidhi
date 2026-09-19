@@ -1,0 +1,6 @@
+{
+  "name": "NIDHI — Know What You Can Safely Spend",
+  "description": "A premium personal finance web app landing page introducing NIDHI, showcasing the Safe to Spend system, core features, and real-time community feedback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
